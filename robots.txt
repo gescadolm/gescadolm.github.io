@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gescadolm.github.io/sitemap.html.gz
+Sitemap: https://gescadolm.github.io/app/sitemap.html.gz
+Sitemap: https://gescadolm.github.io/assets/sitemap.html.gz
+Sitemap: https://gescadolm.github.io/css/sitemap.html.gz
+Sitemap: https://gescadolm.github.io/includes/sitemap.html.gz
+Sitemap: https://gescadolm.github.io/item/sitemap.html.gz
+Sitemap: https://gescadolm.github.io/src/sitemap.html.gz
